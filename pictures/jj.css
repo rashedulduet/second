@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    width: 100px;
+    height: 100px;
+}
+.tag{
+    text-align: center;
+}
